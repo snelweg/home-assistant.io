@@ -77,7 +77,7 @@ sensor:
 
 group:
   meter_readings:
-    name: Meter readings
+    name: "Meter readings"
     entities:
       - sensor.power_consumption_low
       - sensor.power_consumption_normal
@@ -96,7 +96,7 @@ sensor:
 
 group:
   meter_readings:
-    name: Meter readings
+    name: "Meter readings"
     entities:
       - sensor.power_consumption_low
       - sensor.power_consumption_normal
